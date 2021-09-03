@@ -1,1 +1,1 @@
-recommendation bot istediğiniz gibi kullanın.
+Note: It is strictly forbidden to be sold for project purposes or to be distributed by others with any other advertisement.
