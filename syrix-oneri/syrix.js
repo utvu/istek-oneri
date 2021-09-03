@@ -5,7 +5,7 @@ const { botOwner, botToken, botVoiceChannelID, logChannelID } = require('./syrix
 client.on("ready", async () => {
   client.user.setPresence({ activity: { name: "Bot durum yazı" } });
   let botVoiceChannel = client.channels.cache.get(botVoiceChannelID);
-  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Ses bağlanamdı."));
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Ses bağlanamadı."));
 });
 
 let syrix = new Set();
