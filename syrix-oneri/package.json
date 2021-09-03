@@ -1,0 +1,15 @@
+{
+  "name": "syrix-oneri",
+  "version": "0.0.1",
+  "description": "syrix Oneri Bot",
+  "main": "syrix.js",
+  "scripts": {
+    "test": "node syrix.js"
+  },
+  "author": "syrix",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "keywords": []
+}

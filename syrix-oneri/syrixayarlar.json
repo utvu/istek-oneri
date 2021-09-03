@@ -1,0 +1,6 @@
+{
+  "botOwner": "Bot sahip ID",
+  "botToken": "Bot token",
+  "botVoiceChannelID": "Bot ses kanal ID",
+  "logChannelID": "Bot log ID"
+}
