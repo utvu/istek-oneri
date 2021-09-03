@@ -1,2 +1,1 @@
-# istek-oneri
-recommendation bot
+recommendation bot istediğiniz gibi kullanın.
