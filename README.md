@@ -1,1 +1,1 @@
-Note: It is strictly forbidden to be sold for project purposes or to be distributed by others with any other advertisement.
+Türkiyem Ayyıldız Gaming'de kullandığım istek öneri botunu  açık kaynak olarak herkese açık bir şekilde paylaşmaya karar verdim buyrun kullanın.
